@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://ctrl-v-terminal.appgrid.eu</docsUrl>
     <bugTrackerUrl>https://github.com/it-worx-nl/ctrl-v-terminal-releases/discussions</bugTrackerUrl>
-    <tags>ssh sftp scp vnc terminal remote-access sysadmin admin windows gui</tags>
+    <tags>ssh sftp scp vnc terminal remote-access sysadmin admin windows gui freemium commercial</tags>
     <summary>Tabbed SSH, SFTP and VNC client for Windows - paste images straight into your terminal session.</summary>
     <description><![CDATA[
 **Ctrl-V Terminal** is a tabbed SSH / SFTP / VNC client for Windows, built as a modern,
